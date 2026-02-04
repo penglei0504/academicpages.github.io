@@ -1,5 +1,5 @@
 ---
-title: "ASNT Foundation Student Travel Grant"
+title: "2024 ASNT Foundation Student Travel Grant"
 collection: awards
 type: "ASNT 2024 Research Symposium"
 venue: " Pittsburgh, Pennsylvania"
