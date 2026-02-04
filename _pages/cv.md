@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph. D candidate, Electrical and Computer Engineering, Michigan State University, SEP 2021 – PRESENT
+* Master of Engineering, Electrical and Electronic Engineering, Shanghaitech University, Shanghai, SEP 2018 – JUN 2021
+* Bachelor of Engineering, Control Technology and Instrumentation, Hefei University of Technology, SEP 2012 – JUN 2016
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* SEP 2021– PRESENT: Research Assistant
+  * Michigan State University | East Lansing, MI, USA
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* DEC 2023– FEB 2024: Research Intern/Engineer
+  * ACME Industrial, Inc. | Staten Island, NY, USA
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* SEP 2019– JUN 2020: Teaching Assistant
+  * Shanghaitech University | Shanghai, China
+
+* OCT 2017– AUG 2018: Research Assistant
+  * Shanghaitech University | Shanghai, China
+
+* MAY 2017– SEP 2017: Electrical Engineer
+  * AAC Technologies Holdings Inc | Changzhou, China
+
+* JUN 2016 – MAY 2017: Assistant Electrical Engineer
+  * Hefei Metalforming Intelligent Manufacturing Co., Ltd | Hefei, China
+
 
 Publications
 ======
@@ -52,13 +48,16 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
